@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Breakfast</title>
+        <body>
+            <h1>Breakfast</h1>
+            <ul>
+                <li>Bonda</li>
+                <li>Dosa</li>
+                <li>Idly</li>
+                <li>Puri</li>
+                <li>Upma</li>
+                <li>Pongal</li>
+                <li>Vada</li>
+            </ul>
+        </body>
+    </head>
+</html>
